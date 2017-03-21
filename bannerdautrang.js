@@ -117,7 +117,7 @@ $(window).load(function() {
 			$(divpopup).attr('id', 'myModal');
 			$(divpopup).attr('class', 'linhnguyen-modal');
 			$( "body" ).append(divpopup);
-			$("#myModal").html("<a href='http://trangtrinoithatcanhoquan2.blogspot.com' target='_blank'><img src='https://2.bp.blogspot.com/-J84D6P49yRo/WNEXQ09XR7I/AAAAAAAAA8Q/2ntSlVYqUfgb8CrwRbR_4HDi01ljHmbMwCEw/s320/trang-tri-noi-that-can-ho-quan%2B2-tu-van-cai-tao-va-bo-tri-noi-that-can-ho-co-dien-tich-82m2-tu-hai-thanh-ba-phong-ngu-ma-van-day-du-cong-nang_5bff114f4c.jpg' width='500px'/><br/>13 TRANG TRÍ NỘI THẤT GIÁ RẺ</a>. NHANH-RẺ-ĐẸP. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
+			$("#myModal").html("<a href='http://trangtrinoithatcanhoquan2.blogspot.com' target='_blank'><img src='https://2.bp.blogspot.com/-J84D6P49yRo/WNEXQ09XR7I/AAAAAAAAA8Q/2ntSlVYqUfgb8CrwRbR_4HDi01ljHmbMwCEw/s320/trang-tri-noi-that-can-ho-quan%2B2-tu-van-cai-tao-va-bo-tri-noi-that-can-ho-co-dien-tich-82m2-tu-hai-thanh-ba-phong-ngu-ma-van-day-du-cong-nang_5bff114f4c.jpg' width='500px'/><br/>TRANG TRÍ NỘI THẤT GIÁ RẺ</a>. NHANH-RẺ-ĐẸP. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
 			$('#myModal').linhnguyen($('#myModal').data());
 		}
 });
